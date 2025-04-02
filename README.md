@@ -1,4 +1,4 @@
-## Hello WOrld, Johanny Sanchez Alvarez
+## Hello World, Johanny Sanchez Alvarez
 
 Welcome! I'm a programming student with knowledge of backend, frontend, and various libraries and frameworks.
 
